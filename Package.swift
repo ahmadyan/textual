@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
   name: "textual",
   platforms: [
-    .macOS(.v15),
+    .macOS(.v14),
     .iOS(.v18),
     .tvOS(.v18),
     .watchOS(.v11),
